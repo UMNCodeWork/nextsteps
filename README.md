@@ -1,5 +1,4 @@
-Upcoming Events
-_______________
+# Upcoming Events
 
 **Crypto Party** | May 9 - TC MakerSpace, 1-5 | June 14 - Security B-Sides [MCTC]
 [Website](http://www.CryptoPartyMN.com)
